@@ -1,9 +1,9 @@
-===給兒子的 pyhon 筆記
-
-函數
-print
+# 給兒子的 pyhon 筆記
+> ｄｓ
+- 函數
+  - print
 input
 int
 
-變數型別
+## 變數型別
 
