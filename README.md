@@ -1,6 +1,8 @@
 # 給兒子的 pyhon 筆記
+
 > ｄｓ
-- 函數
+## 
+## 函數
   - print
 input
 int
