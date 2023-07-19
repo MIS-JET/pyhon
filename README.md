@@ -9,4 +9,4 @@ int
 
 ## 變數型別
 
-https://github.com/MIS-JET/pyhon/blob/main/MD2.md
+(https://github.com/MIS-JET/pyhon/blob/main/MD2.md "MD2")
