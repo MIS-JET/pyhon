@@ -1,5 +1,8 @@
 # 給兒子的 pyhon 筆記
 
+> Markdown 基礎語法教學
+> GitHub 基本使用
+
 > ｄｓ
 ## 
 ## 函數
