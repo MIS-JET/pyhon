@@ -1,5 +1,9 @@
-# 給兒子的 pyhon 筆記
+===給兒子的 pyhon 筆記
 
 函數
+print
+input
+int
 
-建立Github 帳號
+變數型別
+
